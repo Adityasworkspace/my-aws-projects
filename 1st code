@@ -1,0 +1,5 @@
+name1 = aditya
+name2 = ankit
+  def = name1 + name2
+  print(Name of candidates):
+  
